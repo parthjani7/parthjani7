@@ -3,16 +3,16 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthjani7&show_icons=true&count_private=true&icon_color=6b6b6b&bg_color=121212&title_color=e2e2e2&text_color=dbdbdb&layout=compact" alt="Parth's GitHub Stats" /> <br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthjani7&show_icons=true&count_private=true&icon_color=6b6b6b&bg_color=121212&title_color=e2e2e2&text_color=dbdbdb&layout=compact" alt="Parth's GitHub Stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthjani7&show_icons=true&line_height=27&count_private=true&icon_color=6b6b6b&bg_color=121212&title_color=e2e2e2&text_color=dbdbdb" alt="Parth's GitHub Stats" /><br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthjani7&show_icons=true&line_height=27&count_private=true&icon_color=6b6b6b&bg_color=121212&title_color=e2e2e2&text_color=dbdbdb" alt="Parth's GitHub Stats" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthjani7&theme=dark" alt="Parth's GitHub Stats" /><br/><br/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthjani7&theme=dark" alt="Parth's GitHub Stats" /><br/>
 
 ## 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=parthjani7&theme=onedark)
-<br/><br/>
+<br/>
 ## Contact
 
 <p align="left">
