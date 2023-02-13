@@ -1,17 +1,25 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Parth Jani - Fullstack Developer</h1>
-<center>A project isn't considered successfully completed until it ends up in the production server and is used by end-users with the greatest joy. A successful project requires professionals - the people who know how to tailor it.</center><br/>
+<h1 align="center">Hi 👋, I'm Parth Jani - Fullstack Developer</h1>
 
-## &#x1f4c8; GitHub Stats
+I am a passionate software developer with a strong focus on delivering high-quality solutions.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthjani7&show_icons=true&count_private=true&icon_color=6b6b6b&bg_color=121212&title_color=e2e2e2&text_color=dbdbdb&layout=compact" alt="Parth's GitHub Stats" />
+I have experience in various programming languages and a keen eye for detail, ensuring that my projects are both functional and aesthetically pleasing. 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthjani7&show_icons=true&line_height=27&count_private=true&icon_color=6b6b6b&bg_color=121212&title_color=e2e2e2&text_color=dbdbdb" alt="Parth's GitHub Stats" />
+I enjoy collaborating with others and solving complex problems, always striving to learn and improve my skills. My goal is to create technology that makes a difference and enhances people's lives.
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthjani7&theme=dark" alt="Parth's GitHub Stats" /><br/>
+<i>"A project isn't considered successfully completed until it ends up in the production server and is used by end-users with the greatest joy. A successful project requires professionals - the people who know how to tailor it."</i>
 
-## 🏆 GitHub Trophies
+## &#x1f4c8; GitHub Statistics
 
-![trophy](https://github-profile-trophy.vercel.app/?username=parthjani7&theme=onedark)
+<a href="https://vas.cx/github#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=parthjani7&count_private=true&show_icons=true&custom_title=GitHub%20Statistics%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&disable_animations=true" alt="Parth's GitHub statistics">
+</a>
+<a href="https://vas.cx/github#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=parthjani7&count_private=true&show_icons=true&custom_title=GitHub%20Statistics%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&disable_animations=true&border_color=475569&bg_color=1A1E23&text_color=B3E3F9&icon_color=00A7E1&title_color=00A7E1" alt="Parth's GitHub statistics">
+</a>
+
+## Profile Visits
+
+![](https://komarev.com/ghpvc/?username=parthjani7&color=orange)
 <br/>
 ## Contact
 
