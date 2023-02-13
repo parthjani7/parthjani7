@@ -21,7 +21,8 @@ I enjoy collaborating with others and solving complex problems, always striving 
 
 ![](https://komarev.com/ghpvc/?username=parthjani7&color=orange)
 <br/>
-## Contact
+## 🤝 Contact
+Feel free to connect with me on Twitter, or drop me an email. I'm always open to discussing new projects, opportunities or open-source contributions! 💬
 
 <p align="left">
   <a href="https://twitter.com/parthjani7"><img alt="Twitter" title="Follow me on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
