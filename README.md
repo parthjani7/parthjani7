@@ -5,6 +5,7 @@
   <a href="https://github.com/parthjani7">
     <img src="https://komarev.com/ghpvc/?username=parthjani7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
+
   <a href="https://github.com/parthjani7?tab=followers">
     <img src="https://img.shields.io/github/followers/parthjani7?label=Followers&style=social" alt="GitHub Followers" />
   </a>
@@ -23,10 +24,10 @@
 
 ## 🎓 Certifications
 <a href="https://www.credly.com/badges/d088f9f3-ee80-4e9c-8e5e-167816f50723">
-  <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" width="200" />
+  <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" width="80" />
 </a>
 <a href="https://verifier.certificationforlaravel.org/d05ab6e0-706d-4c62-aa9e-ff6c2809dc20">
-  <img src="https://cdn.convrrt.com/apps/freshworks/12858407/73cbfab2-04d8-442c-b17c-80d235a5eaf9.png" alt="Senior Laravel Developer" title="Senior Laravel Developer" width="172" />
+  <img src="https://cdn.convrrt.com/apps/freshworks/12858407/73cbfab2-04d8-442c-b17c-80d235a5eaf9.png" alt="Senior Laravel Developer" title="Senior Laravel Developer" width="69" />
 </a>
 
 ---
