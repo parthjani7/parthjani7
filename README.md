@@ -21,13 +21,13 @@
 
 ---
 
-## 🏆 Certifications
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/200x200/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/d088f9f3-ee80-4e9c-8e5e-167816f50723)
+## 🎓 Certifications
+<a href="https://www.credly.com/badges/d088f9f3-ee80-4e9c-8e5e-167816f50723">
+  <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" width="200" />
+</a>
 <a href="https://verifier.certificationforlaravel.org/d05ab6e0-706d-4c62-aa9e-ff6c2809dc20">
   <img src="https://cdn.convrrt.com/apps/freshworks/12858407/73cbfab2-04d8-442c-b17c-80d235a5eaf9.png" alt="Senior Laravel Developer" title="Senior Laravel Developer" width="172" />
 </a>
-
-
 
 ---
 
@@ -48,10 +48,10 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,python" alt="Backend Stack" />
 
 ### **Databases**
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,graphql,redis" alt="Databases" />
 
 ### **Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,nginx" alt="DevOps & Cloud" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,nginx,jenkins" alt="DevOps & Cloud" />
 
 ### **Tools**
 <img src="https://skillicons.dev/icons?i=github,bash,linux,vscode,apple" alt="DevOps & Cloud" />
@@ -61,11 +61,6 @@
 ## 📊 GitHub Stats  
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=parthjani7&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-### 🔥 **GitHub Streak**
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthjani7&theme=radical" alt="GitHub Streak" />
 </p>
 
 ### 🚀 **Most Used Languages**
