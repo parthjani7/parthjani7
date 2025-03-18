@@ -1,31 +1,90 @@
-<h1 align="center">Hi 👋, I'm Parth Jani - Fullstack Developer</h1>
+<h1 align="center">🚀 Hey , I'm Parth Jani 👋</h1>
+<h3 align="center">Full-Stack Developer | AWS Certified | DevOps Enthusiast | Freelancer</h3>
 
-I am a passionate software developer with a strong focus on delivering high-quality solutions.
-
-I have experience in various programming languages and a keen eye for detail, ensuring that my projects are both functional and aesthetically pleasing. 
-
-I enjoy collaborating with others and solving complex problems, always striving to learn and improve my skills. My goal is to create technology that makes a difference and enhances people's lives.
-
-<i>"A project isn't considered successfully completed until it ends up in the production server and is used by end-users with the greatest joy. A successful project requires professionals - the people who know how to tailor it."</i>
-
-## &#x1f4c8; GitHub Statistics
-
-<a href="https://vas.cx/github#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=parthjani7&count_private=true&show_icons=true&custom_title=GitHub%20Statistics%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&disable_animations=true" alt="Parth's GitHub statistics">
-</a>
-<a href="https://vas.cx/github#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=parthjani7&count_private=true&show_icons=true&custom_title=GitHub%20Statistics%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&disable_animations=true&border_color=475569&bg_color=1A1E23&text_color=B3E3F9&icon_color=00A7E1&title_color=00A7E1" alt="Parth's GitHub statistics">
-</a>
-
-## Profile Visits
-
-![](https://komarev.com/ghpvc/?username=parthjani7&color=orange)
-<br/>
-## 🤝 Contact
-Feel free to connect with me on Twitter, or drop me an email. I'm always open to discussing new projects, opportunities or open-source contributions! 💬
-
-<p align="left">
-  <a href="https://twitter.com/parthjani7"><img alt="Twitter" title="Follow me on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:parthjani4@gmail.com"><img title="Shoot a message" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.upwork.com/fl/parthjani"><img title="Hire me on UpWork"  src="https://img.shields.io/badge/Upwork-API?style=for-the-badge&logo=upwork&colorB=1d4354" /></a>
+<p align="center">
+  <a href="https://github.com/parthjani7">
+    <img src="https://komarev.com/ghpvc/?username=parthjani7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/parthjani7?tab=followers">
+    <img src="https://img.shields.io/github/followers/parthjani7?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
 </p>
+
+---
+
+## 🌟 About Me
+- 🚀 AWS Certified & Laravel Certified  
+- 🏗️ **Building Scalable Web Apps & Cloud Solutions**  
+- 🌱 Exploring **Serverless, Microservices, and AWS Cloud**  
+- 🤝 Available for freelance work on **[Upwork](https://www.upwork.com/fl/parthjani)**  
+- 👯 Open to collaborations & freelance projects
+
+---
+
+## 🏆 Certifications
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/200x200/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/d088f9f3-ee80-4e9c-8e5e-167816f50723)
+<a href="https://verifier.certificationforlaravel.org/d05ab6e0-706d-4c62-aa9e-ff6c2809dc20">
+  <img src="https://cdn.convrrt.com/apps/freshworks/12858407/73cbfab2-04d8-442c-b17c-80d235a5eaf9.png" alt="Senior Laravel Developer" title="Senior Laravel Developer" width="172" />
+</a>
+
+
+
+---
+
+## ☁ AWS Skills & Services
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-%23FF9900.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-%23013243.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-%23EC7211.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+## 🛠️ Tech Stack  
+### **Frontend**
+<img src="https://skillicons.dev/icons?i=vue,react,nextjs,tailwind,html,css,js,ts" alt="Frontend Stack" />
+
+### **Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,python" alt="Backend Stack" />
+
+### **Databases**
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis" alt="Databases" />
+
+### **Cloud & DevOps**
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,nginx" alt="DevOps & Cloud" />
+
+### **Tools**
+<img src="https://skillicons.dev/icons?i=github,bash,linux,vscode,apple" alt="DevOps & Cloud" />
+
+---
+
+## 📊 GitHub Stats  
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=parthjani7&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+### 🔥 **GitHub Streak**
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthjani7&theme=radical" alt="GitHub Streak" />
+</p>
+
+### 🚀 **Most Used Languages**
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthjani7&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🤝 Connect with Me  
+<p align="center">
+  <a href="https://twitter.com/parthjani7" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.upwork.com/fl/parthjani" target="_blank">
+    <img title="Hire me on UpWork"  src="https://img.shields.io/badge/Upwork-API?style=for-the-badge&logo=upwork&colorB=1d4354" />
+  </a>
+</p>
+
+---
+
+🚀 _Let's build something amazing together!_ 😊
