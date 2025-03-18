@@ -1,15 +1,3 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&family=Comfortaa:wght@300;400;600&display=swap');
-
-h1, h2, h3 {
-    font-family: 'Ubuntu', cursive;
-}
-
-body, p, a {
-    font-family: 'Comfortaa', sans-serif;
-}
-</style>
-
 <h1 align="center">🚀 Hey , I'm Parth Jani 👋</h1>
 <h3 align="center">Full-Stack Developer | AWS Certified | DevOps Enthusiast | Freelancer</h3>
 
@@ -35,7 +23,9 @@ body, p, a {
 
 ## 🏆 Certifications
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/200x200/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/d088f9f3-ee80-4e9c-8e5e-167816f50723)
-[![Senior Laravel Developer](https://fractal.everycred.com/media/badge/53b5bea7-584b-4187-bcc4-2581f48f2f45.png)](https://verifier.certificationforlaravel.org/d05ab6e0-706d-4c62-aa9e-ff6c2809dc20)
+<a href="https://verifier.certificationforlaravel.org/d05ab6e0-706d-4c62-aa9e-ff6c2809dc20">
+  <img src="https://cdn.convrrt.com/apps/freshworks/12858407/73cbfab2-04d8-442c-b17c-80d235a5eaf9.png" alt="Senior Laravel Developer" title="Senior Laravel Developer" width="172" />
+</a>
 
 
 
@@ -69,17 +59,17 @@ body, p, a {
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=parthjani7&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ### 🔥 **GitHub Streak**
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthjani7&theme=radical" alt="GitHub Streak" />
 </p>
 
 ### 🚀 **Most Used Languages**
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthjani7&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
