@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hey , I'm Parth Jani 👋</h1>
+<h1 align="center">🚀 Hello, I'm Parth Jani 👋</h1>
 <h3 align="center">Full-Stack Developer | AWS Certified | DevOps Enthusiast | Freelancer</h3>
 
 <p align="center">
