@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hello, I'm Parth Jani 👋</h1>
-<h3 align="center">Full-Stack Developer | AWS Certified | DevOps Enthusiast | Freelancer</h3>
+<h3 align="center">Full-Stack Developer | AWS Certified | DevOps Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/parthjani7">
@@ -16,9 +16,9 @@
 ## 🌟 About Me
 - 🚀 AWS Certified & Laravel Certified  
 - 🏗️ **Building Scalable Web Apps & Cloud Solutions**  
-- 🌱 Exploring **Serverless, Microservices, and AWS Cloud**  
-- 🤝 Available for freelance work on **[Upwork](https://www.upwork.com/fl/parthjani)**  
-- 👯 Open to collaborations & freelance projects
+- 🌱 Exploring **Serverless, Microservices, and AWS Cloud**
+- 👯 Open to collaborations
+<!-- - 🤝 Available for freelance work on **[Upwork](https://www.upwork.com/fl/parthjani)** -->
 
 ---
 
