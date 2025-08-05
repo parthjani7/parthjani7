@@ -62,10 +62,10 @@
 
 ---
 
-## 📊 GitHub Stats  
+<!-- ## 📊 GitHub Stats  
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=parthjani7&show_icons=true&show=prs_merged,prs_merged_percentage&rank_icon=github&hide=contribs&theme=dracula&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
-</p>
+</p> -->
 
 ### 🚀 **Most Used Languages**
 <p>
